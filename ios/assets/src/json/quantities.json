@@ -1,0 +1,1005 @@
+[
+    {
+      "var": "select",
+      "symbol": {
+        "ru": "none",
+        "en": "none"
+      },
+      "name": {
+        "ru": "Выбрать",
+        "en": "Select"
+      },
+      "measures": {
+        "ru": [
+          "none"
+        ],
+        "en": [
+          "none"
+        ],
+        "multipliers": [
+          0
+        ]
+      }
+    },
+    {
+      "var": "M_v",
+      "symbol": {
+        "ru": "M<sub>в-ва</sub>",
+        "en": "M<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Молярная масса",
+        "en": "Molar Mass"
+      },
+      "measures": {
+        "ru": [
+          "г/моль",
+          "кг/моль",
+          "мг/моль"
+        ],
+        "en": [
+          "g/mol",
+          "kg/mol",
+          "mg/mol"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "M_r",
+      "symbol": {
+        "ru": "M<sub>r</sub>",
+        "en": "M<sub>r</sub>"
+      },
+      "name": {
+        "ru": "Относительная молекулярная масса",
+        "en": "Relative molecular weight"
+      },
+      "measures": {
+        "ru": [
+          ""
+        ],
+        "en": [
+          ""
+        ],
+        "multipliers": [
+          1
+        ]
+      }
+    },
+    {
+      "var": "n_v",
+      "symbol": {
+        "ru": "n<sub>в-ва</sub>",
+        "en": "n<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Химическое количество",
+        "en": "Chemical amount of substance"
+      },
+      "measures": {
+        "ru": [
+          "моль",
+          "кмоль",
+          "ммоль"
+        ],
+        "en": [
+          "mol",
+          "kmol",
+          "mmol"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "m_v",
+      "symbol": {
+        "ru": "m<sub>в-ва</sub>",
+        "en": "m<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Масса вещества",
+        "en": "Mass of substance"
+      },
+      "measures": {
+        "ru": [
+          "г",
+          "кг",
+          "мг"
+        ],
+        "en": [
+          "g",
+          "kg",
+          "mg"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "m_r",
+      "symbol": {
+        "ru": "m<sub>р-ра</sub>",
+        "en": "m<sub>sol.</sub>"
+      },
+      "name": {
+        "ru": "Масса раствора",
+        "en": "Mass of solution"
+      },
+      "measures": {
+        "ru": [
+          "г",
+          "кг",
+          "мг"
+        ],
+        "en": [
+          "g",
+          "kg",
+          "mg"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "m_smesi",
+      "symbol": {
+        "ru": "m<sub>смеси</sub>",
+        "en": "m<sub>mixt.</sub>"
+      },
+      "name": {
+        "ru": "Масса смеси",
+        "en": "Mass of mixture"
+      },
+      "measures": {
+        "ru": [
+          "г",
+          "кг",
+          "мг"
+        ],
+        "en": [
+          "g",
+          "kg",
+          "mg"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "m_raspl",
+      "symbol": {
+        "ru": "m<sub>расплава</sub>",
+        "en": "m<sub>melt</sub>"
+      },
+      "name": {
+        "ru": "Масса расплава",
+        "en": "Mass of melt"
+      },
+      "measures": {
+        "ru": [
+          "г",
+          "кг",
+          "мг"
+        ],
+        "en": [
+          "g",
+          "kg",
+          "mg"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "m_rud",
+      "symbol": {
+        "ru": "m<sub>руды</sub>",
+        "en": "m<sub>ore</sub>"
+      },
+      "name": {
+        "ru": "Масса руды",
+        "en": "Mass of ore"
+      },
+      "measures": {
+        "ru": [
+          "г",
+          "кг",
+          "мг"
+        ],
+        "en": [
+          "g",
+          "kg",
+          "mg"
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.001
+        ]
+      }
+    },
+    {
+      "var": "V_v",
+      "symbol": {
+        "ru": "V<sub>в-ва</sub>",
+        "en": "V<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Объём вещества",
+        "en": "Volume of substance"
+      },
+      "measures": {
+        "ru": [
+          "л",
+          "мл",
+          "дм3",
+          "м3",
+          "см3",
+          "мм3"
+        ],
+        "en": [
+          "l",
+          "ml",
+          "dm3",
+          "m3",
+          "cm3",
+          "mm3"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          1,
+          1000,
+          0.001,
+          0.000001
+        ]
+      }
+    },
+    {
+      "var": "V_n",
+      "symbol": {
+        "ru": "V<sub>n</sub>",
+        "en": "V<sub>n</sub>"
+      },
+      "name": {
+        "ru": "Молярный объём",
+        "en": "Molar volume"
+      },
+      "measures": {
+        "ru": [
+          "дм3/моль",
+          "мл/моль",
+          "л/моль",
+          "м3/моль",
+          "см3/моль",
+          "мм3/моль"
+        ],
+        "en": [
+          "dm3/mol",
+          "ml/mol",
+          "l/mol",
+          "m3/mol",
+          "cm3/mol",
+          "mm3/mol"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          1,
+          1000,
+          0.001,
+          0.000001
+        ]
+      }
+    },
+    {
+      "var": "V_r",
+      "symbol": {
+        "ru": "V<sub>р-ра</sub>",
+        "en": "V<sub>sol.</sub>"
+      },
+      "name": {
+        "ru": "Объём раствора",
+        "en": "Solution volume"
+      },
+      "measures": {
+        "ru": [
+          "л",
+          "мл",
+          "дм3",
+          "м3",
+          "см3",
+          "мм3"
+        ],
+        "en": [
+          "l",
+          "ml",
+          "dm3",
+          "m3",
+          "cm3",
+          "mm3"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          1,
+          1000,
+          0.001,
+          0.000001
+        ]
+      }
+    },
+    {
+      "var": "V_smesi",
+      "symbol": {
+        "ru": "V<sub>смеси</sub>",
+        "en": "V<sub>mixt.</sub>"
+      },
+      "name": {
+        "ru": "Объём смеси",
+        "en": "Volume of mixture"
+      },
+      "measures": {
+        "ru": [
+          "л",
+          "мл",
+          "дм3",
+          "м3",
+          "см3",
+          "мм3"
+        ],
+        "en": [
+          "l",
+          "ml",
+          "dm3",
+          "m3",
+          "cm3",
+          "mm3"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          1,
+          1000,
+          0.001,
+          0.000001
+        ]
+      }
+    },
+    {
+      "var": "V_raspl",
+      "symbol": {
+        "ru": "V<sub>расплава</sub>",
+        "en": "V<sub>melt</sub>"
+      },
+      "name": {
+        "ru": "Объём расплава",
+        "en": "Volume of melt"
+      },
+      "measures": {
+        "ru": [
+          "л",
+          "мл",
+          "дм3",
+          "м3",
+          "см3",
+          "мм3"
+        ],
+        "en": [
+          "l",
+          "ml",
+          "dm3",
+          "m3",
+          "cm3",
+          "mm3"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          1,
+          1000,
+          0.001,
+          0.000001
+        ]
+      }
+    },
+    {
+      "var": "V_rud",
+      "symbol": {
+        "ru": "V<sub>руды</sub>",
+        "en": "V<sub>ore</sub>"
+      },
+      "name": {
+        "ru": "Объём руды",
+        "en": "Volume of ore"
+      },
+      "measures": {
+        "ru": [
+          "л",
+          "мл",
+          "дм3",
+          "м3",
+          "см3",
+          "мм3"
+        ],
+        "en": [
+          "l",
+          "ml",
+          "dm3",
+          "m3",
+          "cm3",
+          "mm3"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          1,
+          1000,
+          0.001,
+          0.000001
+        ]
+      }
+    },
+    {
+      "var": "w_v",
+      "symbol": {
+        "ru": "ω<sub>в-ва</sub>",
+        "en": "ω<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Процент (массовая доля) вещества",
+        "en": "Mass fraction of substance"
+      },
+      "measures": {
+        "ru": [
+          "%",
+          "доли"
+        ],
+        "en": [
+          "%",
+          "fractions"
+        ],
+        "multipliers": [
+          1,
+          100
+        ]
+      }
+    },
+    {
+      "var": "w_vyh",
+      "symbol": {
+        "ru": "ω<sub>выхода</sub>",
+        "en": "ω<sub>yield</sub>"
+      },
+      "name": {
+        "ru": "Процент (массовая доля) выхода",
+        "en": "Mass fraction of reaction yield"
+      },
+      "measures": {
+        "ru": [
+          "%",
+          "доли"
+        ],
+        "en": [
+          "%",
+          "fractions"
+        ],
+        "multipliers": [
+          1,
+          100
+        ]
+      }
+    },
+    {
+      "var": "fi",
+      "symbol": {
+        "ru": "φ",
+        "en": "φ"
+      },
+      "name": {
+        "ru": "Объёмная доля",
+        "en": "Volume fraction"
+      },
+      "measures": {
+        "ru": [
+          "%",
+          "доли"
+        ],
+        "en": [
+          "%",
+          "fractions"
+        ],
+        "multipliers": [
+          1,
+          100
+        ]
+      }
+    },
+    {
+      "var": "ro_v",
+      "symbol": {
+        "ru": "ρ<sub>в-ва</sub>",
+        "en": "ρ<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Плотность вещества",
+        "en": "Substance density"
+      },
+      "measures": {
+        "ru": [
+          "г/дм3",
+          "г/л",
+          "г/м3",
+          "г/см3",
+          "кг/дм3",
+          "кг/л",
+          "кг/м3",
+          "кг/см3",
+          "мг/дм3",
+          "мг/л",
+          "мг/м3",
+          "мг/см3"
+        ],
+        "en": [
+          "g/dm3",
+          "g/l",
+          "g/m3",
+          "g/cm3",
+          "kg/dm3",
+          "kg/l",
+          "kg/m3",
+          "kg/cm3",
+          "mg/dm3",
+          "mg/l",
+          "mg/m3",
+          "mg/cm3"
+        ],
+        "multipliers": [
+          1,
+          1,
+          0.001,
+          1000,
+          1000,
+          1000,
+          1,
+          1000000,
+          0.001,
+          0.001,
+          0.000001,
+          1
+        ]
+      }
+    },
+    {
+      "var": "ro_r",
+      "symbol": {
+        "ru": "ρ<sub>р-ра</sub>",
+        "en": "ρ<sub>sol.</sub>"
+      },
+      "name": {
+        "ru": "Плотность раствора",
+        "en": "Solution density"
+      },
+      "measures": {
+        "ru": [
+          "г/дм3",
+          "г/л",
+          "г/м3",
+          "г/см3",
+          "кг/дм3",
+          "кг/л",
+          "кг/м3",
+          "кг/см3",
+          "мг/дм3",
+          "мг/л",
+          "мг/м3",
+          "мг/см3"
+        ],
+        "en": [
+          "g/dm3",
+          "g/l",
+          "g/m3",
+          "g/cm3",
+          "kg/dm3",
+          "kg/l",
+          "kg/m3",
+          "kg/cm3",
+          "mg/dm3",
+          "mg/l",
+          "mg/m3",
+          "mg/cm3"
+        ],
+        "multipliers": [
+          1,
+          1,
+          0.001,
+          1000,
+          1000,
+          1000,
+          1,
+          1000000,
+          0.001,
+          0.001,
+          0.000001,
+          1
+        ]
+      }
+    },
+    {
+      "var": "ro_smesi",
+      "symbol": {
+        "ru": "ρ<sub>смеси</sub>",
+        "en": "ρ<sub>mixt.</sub>"
+      },
+      "name": {
+        "ru": "Плотность смеси",
+        "en": "Mixture density"
+      },
+      "measures": {
+        "ru": [
+          "г/дм3",
+          "г/л",
+          "г/м3",
+          "г/см3",
+          "кг/дм3",
+          "кг/л",
+          "кг/м3",
+          "кг/см3",
+          "мг/дм3",
+          "мг/л",
+          "мг/м3",
+          "мг/см3"
+        ],
+        "en": [
+          "g/dm3",
+          "g/l",
+          "g/m3",
+          "g/cm3",
+          "kg/dm3",
+          "kg/l",
+          "kg/m3",
+          "kg/cm3",
+          "mg/dm3",
+          "mg/l",
+          "mg/m3",
+          "mg/cm3"
+        ],
+        "multipliers": [
+          1,
+          1,
+          0.001,
+          1000,
+          1000,
+          1000,
+          1,
+          1000000,
+          0.001,
+          0.001,
+          0.000001,
+          1
+        ]
+      }
+    },
+    {
+      "var": "ro_raspl",
+      "symbol": {
+        "ru": "ρ<sub>расплава</sub>",
+        "en": "ρ<sub>melt</sub>"
+      },
+      "name": {
+        "ru": "Плотность расплава",
+        "en": "Melt density"
+      },
+      "measures": {
+        "ru": [
+          "г/дм3",
+          "г/л",
+          "г/м3",
+          "г/см3",
+          "кг/дм3",
+          "кг/л",
+          "кг/м3",
+          "кг/см3",
+          "мг/дм3",
+          "мг/л",
+          "мг/м3",
+          "мг/см3"
+        ],
+        "en": [
+          "g/dm3",
+          "g/l",
+          "g/m3",
+          "g/cm3",
+          "kg/dm3",
+          "kg/l",
+          "kg/m3",
+          "kg/cm3",
+          "mg/dm3",
+          "mg/l",
+          "mg/m3",
+          "mg/cm3"
+        ],
+        "multipliers": [
+          1,
+          1,
+          0.001,
+          1000,
+          1000,
+          1000,
+          1,
+          1000000,
+          0.001,
+          0.001,
+          0.000001,
+          1
+        ]
+      }
+    },
+    {
+      "var": "ro_rud",
+      "symbol": {
+        "ru": "ρ<sub>руды</sub>",
+        "en": "ρ<sub>ore</sub>"
+      },
+      "name": {
+        "ru": "Плотность руды",
+        "en": "Ore density"
+      },
+      "measures": {
+        "ru": [
+          "г/дм3",
+          "г/л",
+          "г/м3",
+          "г/см3",
+          "кг/дм3",
+          "кг/л",
+          "кг/м3",
+          "кг/см3",
+          "мг/дм3",
+          "мг/л",
+          "мг/м3",
+          "мг/см3"
+        ],
+        "en": [
+          "g/dm3",
+          "g/l",
+          "g/m3",
+          "g/cm3",
+          "kg/dm3",
+          "kg/l",
+          "kg/m3",
+          "kg/cm3",
+          "mg/dm3",
+          "mg/l",
+          "mg/m3",
+          "mg/cm3"
+        ],
+        "multipliers": [
+          1,
+          1,
+          0.001,
+          1000,
+          1000,
+          1000,
+          1,
+          1000000,
+          0.001,
+          0.001,
+          0.000001,
+          1
+        ]
+      }
+    },
+    {
+      "var": "ma_v",
+      "symbol": {
+        "ru": "m<sub>атома в-ва</sub>",
+        "en": "m<sub>atom</sub>"
+      },
+      "name": {
+        "ru": "Масса атома вещества",
+        "en": "Substance atom mass"
+      },
+      "measures": {
+        "ru": [
+          "г",
+          "кг",
+          "а.е.м."
+        ],
+        "en": [
+          "g",
+          "kg",
+          "a.u.m."
+        ],
+        "multipliers": [
+          1,
+          1000,
+          0.166e-25
+        ]
+      }
+    },
+    {
+      "var": "N_v",
+      "symbol": {
+        "ru": "N",
+        "en": "N"
+      },
+      "name": {
+        "ru": "Число структурных единиц",
+        "en": "Number of structural units"
+      },
+      "measures": {
+        "ru": [
+          ""
+        ],
+        "en": [
+          ""
+        ],
+        "multipliers": [
+          1
+        ]
+      }
+    },
+    {
+      "var": "D_vozd",
+      "symbol": {
+        "ru": "D<sub>по возд.</sub>",
+        "en": "D<sub>air</sub>"
+      },
+      "name": {
+        "ru": "Относительная плотность по воздуху",
+        "en": "Relative density by air"
+      },
+      "measures": {
+        "ru": [
+          ""
+        ],
+        "en": [
+          ""
+        ],
+        "multipliers": [
+          1
+        ]
+      }
+    },
+    {
+      "var": "D_h",
+      "symbol": {
+        "ru": "D<sub>по H<sub>2</sub></sub>",
+        "en": "D<sub>by H<sub>2</sub></sub>"
+      },
+      "name": {
+        "ru": "Относительная плотность по водороду",
+        "en": "Relative density by hydrogen"
+      },
+      "measures": {
+        "ru": [
+          ""
+        ],
+        "en": [
+          ""
+        ],
+        "multipliers": [
+          1
+        ]
+        
+      }
+    },
+    {
+      "var": "C_v",
+      "symbol": {
+        "ru": "C<sub>в-ва</sub>",
+        "en": "C<sub>subst</sub>"
+      },
+      "name": {
+        "ru": "Молярная концентрация",
+        "en": "Molar concentration"
+      },
+      "measures": {
+        "ru": [
+          "моль/дм3",
+          "моль/л",
+          "моль/мл",
+          "моль/м3",
+          "моль/см3"
+        ],
+        "en": [
+          "mol/dm3",
+          "mol/l",
+          "mol/ml",
+          "mol/m3",
+          "mol/cm3"
+        ],
+        "multipliers": [
+          1,
+          1,
+          1000,
+          0.001,
+          1000
+        ]
+      }
+    },
+    {
+      "var": "P",
+      "symbol": {
+        "ru": "P<sub>газа</sub>",
+        "en": "P<sub>gas</sub>"
+      },
+      "name": {
+        "ru": "Давление газа",
+        "en": "Gas pressure"
+      },
+      "measures": {
+        "ru": [
+          "кПа",
+          "Па",
+          "гПа",
+          "МПа",
+          "мм рт. ст.",
+          "атм.",
+          "бар"
+        ],
+        "en": [
+          "kPa",
+          "Pa",
+          "gPa",
+          "mPa",
+          "mmHg",
+          "atm",
+          "bar"
+        ],
+        "multipliers": [
+          1,
+          0.001,
+          10,
+          0.001,
+          7.500616,
+          0.009869,
+          0.01
+        ]
+      }
+    },
+    {
+      "var": "T",
+      "symbol": {
+        "ru": "T<sub>газа</sub>",
+        "en": "T<sub>gas</sub>"
+      },
+      "name": {
+        "ru": "Температура газа",
+        "en": "Gas temperature"
+      },
+      "measures": {
+        "ru": [
+          "К"
+        ],
+        "en": [
+          "K"
+        ],
+        "multipliers": [
+          1
+        ]
+      }
+    }
+  ]

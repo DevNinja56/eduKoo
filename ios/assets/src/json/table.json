@@ -1,0 +1,4596 @@
+[
+	{
+		"atomMass": "1.00794",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "hexagonal",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Henry Cavendish",
+			"ru": "Генри Кавендиш"
+		},
+		"elconf": "1s1",
+		"element": "H",
+		"elnegativity": "2,2",
+		"group": "1 A",
+		"id": 1,
+		"name": {
+			"en": "Hydrogen",
+			"ru": "Водород"
+		},
+		"period": "1",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"tempBoiling": "-252,87 °C",
+		"tempMelting": "-259,14 °C",
+		"val": [
+			"-1",
+			"1"
+		]
+	},
+	{
+		"atomMass": "4.0026",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "hexagonal",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "William Ramsay, William Crookes",
+			"ru": "Уильям Рамзай, Уильям Крукс"
+		},
+		"elconf": "1s2",
+		"element": "He",
+		"elnegativity": "5,5",
+		"group": "8 A",
+		"id": 2,
+		"name": {
+			"en": "Helium",
+			"ru": "Гелий"
+		},
+		"period": "1",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "-268,94 °C",
+		"tempMelting": "-272,2 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "6.941",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Johan August Arfwedson",
+			"ru": "Йохан Август Арфведсон"
+		},
+		"elconf": "1s2 2s1",
+		"element": "Li",
+		"elnegativity": "0,97",
+		"group": "1 A",
+		"id": 3,
+		"name": {
+			"en": "Lithium",
+			"ru": "Литий"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "silvery-white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkali metals",
+			"ru": "Щелочные металлы"
+		},
+		"tempBoiling": "1339,85 °C",
+		"tempMelting": "180,54 °C",
+		"val": [
+			"1"
+		]
+	},
+	{
+		"atomMass": "9.0122",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Louis Nicolas Vauquelin",
+			"ru": "Луи Никола Воклен"
+		},
+		"elconf": "1s2 2s2",
+		"element": "Be",
+		"elnegativity": "1,47",
+		"group": "2 A",
+		"id": 4,
+		"name": {
+			"en": "Beryllium",
+			"ru": "Бериллий"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "white-gray metallic",
+			"ru": "светло-серый"
+		},
+		"subclass": {
+			"en": "Alkaline earth metals",
+			"ru": "Щёлочноземельные металлы"
+		},
+		"tempBoiling": "2970 °C",
+		"tempMelting": "1287 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "10.811",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "rhombohedral",
+			"ru": "ромбоэдрическая"
+		},
+		"discoverer": {
+			"en": "Joseph Louis Gay-Lussac, Louis Jacques Thénard",
+			"ru": "Жозеф Луи Гей-Люссака, Луи Жак Тенар"
+		},
+		"elconf": "1s2 2s2 2p1",
+		"element": "B",
+		"elnegativity": "2,01",
+		"group": "3 A",
+		"id": 5,
+		"name": {
+			"en": "Boron",
+			"ru": "Бор"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "black-brown",
+			"ru": "тёмно-коричневый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "3865 °C",
+		"tempMelting": "2075 °C",
+		"val": [
+			"-3",
+			"3"
+		]
+	},
+	{
+		"atomMass": "12.0107",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "simple hexagonal (graphite), cubic (diamond)",
+			"ru": "гексагональная (графит), кубическая (алмаз)"
+		},
+		"discoverer": {
+			"en": "Egyptians",
+			"ru": "Древние египтяне"
+		},
+		"elconf": "1s2 2s2 2p2",
+		"element": "C",
+		"elnegativity": "2,50",
+		"group": "4 A",
+		"id": 6,
+		"name": {
+			"en": "Carbon",
+			"ru": "Углерод"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "graphite: black, diamond: clear",
+			"ru": "матово-чёрный (графит), прозрачный (алмаз)"
+		},
+		"tempBoiling": "3506,85 °C",
+		"val": [
+			"-4",
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "14.0067",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "cubic",
+			"ru": "кубическая"
+		},
+		"discoverer": {
+			"en": "Daniel Rutherford",
+			"ru": "Дэниэль Резерфорд"
+		},
+		"elconf": "1s2 2s2 2p3",
+		"element": "N",
+		"elnegativity": "3,07",
+		"group": "5 A",
+		"id": 7,
+		"name": {
+			"en": "Nitrogen",
+			"ru": "Азот"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"tempBoiling": "-195,75 °C",
+		"tempMelting": "-209,86 °C",
+		"val": [
+			"-3",
+			"2",
+			"3",
+			"4",
+			"5"
+		]
+	},
+	{
+		"atomMass": "15.9994",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "monoclinic",
+			"ru": "моноклинная"
+		},
+		"discoverer": {
+			"en": "Carl Wilhelm Scheele",
+			"ru": "Карл Вильгельм Шееле"
+		},
+		"elconf": "1s2 2s2 2p4",
+		"element": "O",
+		"elnegativity": "3,5",
+		"group": "6 A",
+		"id": 8,
+		"name": {
+			"en": "Oxygen",
+			"ru": "Кислород"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"tempBoiling": "-182,96 °C",
+		"tempMelting": "-218,35 °C",
+		"val": [
+			"-2",
+			"-1",
+			"2"
+		]
+	},
+	{
+		"atomMass": "18.9984",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "cubic",
+			"ru": "моноклинная"
+		},
+		"discoverer": {
+			"en": "André-Marie Ampère",
+			"ru": "Андрэ-Мари Ампер"
+		},
+		"elconf": "1s2 2s2 2p5",
+		"element": "F",
+		"elnegativity": "4,10",
+		"group": "7 A",
+		"id": 9,
+		"name": {
+			"en": "Fluorine",
+			"ru": "Фтор"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "gas: very pale yellow, liquid: bright yellow, solid: alpha is opaque",
+			"ru": "бледно-жёлтый"
+		},
+		"subclass": {
+			"en": "Halogens",
+			"ru": "Галогены"
+		},
+		"tempBoiling": "−188.11 °C",
+		"tempMelting": "−219.67 °C",
+		"val": [
+			"-1"
+		]
+	},
+	{
+		"atomMass": "20.1797",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "William Ramsay, Morris Travers",
+			"ru": "Уильям Рамзай, Моррис Траверс"
+		},
+		"elconf": "1s2 2s2 2p6",
+		"element": "Ne",
+		"elnegativity": "4,84",
+		"group": "8 A",
+		"id": 10,
+		"name": {
+			"en": "Neon",
+			"ru": "Неон"
+		},
+		"period": "2",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "−246,05 °C",
+		"tempMelting": "−248,6 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "22.9898",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Humphry Davy",
+			"ru": "Гемфри Дэви"
+		},
+		"elconf": "1s2 2s2 2p6 3s1",
+		"element": "Na",
+		"elnegativity": "1,01",
+		"group": "1 A",
+		"id": 11,
+		"name": {
+			"en": "Sodium",
+			"ru": "Натрий"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "silvery white metallic",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkali metals",
+			"ru": "Щелочные металлы"
+		},
+		"tempBoiling": "882,95 °C",
+		"tempMelting": "97,81 °C",
+		"val": [
+			"1"
+		]
+	},
+	{
+		"atomMass": "24.3050",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "hexagonal",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Joseph Black",
+			"ru": "Джозеф Блэк"
+		},
+		"elconf": "1s2 2s2 2p6 3s2",
+		"element": "Mg",
+		"elnegativity": "1,23",
+		"group": "2 A",
+		"id": 12,
+		"name": {
+			"en": "Magnesium",
+			"ru": "Магний"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "shiny grey solid",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkaline earth metals",
+			"ru": "Щёлочноземельные металлы"
+		},
+		"tempBoiling": "1090 °C",
+		"tempMelting": "650 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "26.9815",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "Hans Christian Ørsted",
+			"ru": "Ханс Кристиан Э́рстед"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p1",
+		"element": "Al",
+		"elnegativity": "1,47",
+		"group": "3 A",
+		"id": 13,
+		"name": {
+			"en": "Aluminum",
+			"ru": "Алюминий"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "shiny grey solid",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "2518,82 °C",
+		"tempMelting": "660 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "28.0855",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "diamond cubic",
+			"ru": "кубическая, алмазная"
+		},
+		"discoverer": {
+			"en": "Jöns Jakob Berzelius",
+			"ru": "Йёнс Якоб Берцелиус"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p2",
+		"element": "Si",
+		"elnegativity": "1,74",
+		"group": "4 A",
+		"id": 14,
+		"name": {
+			"en": "Silicon",
+			"ru": "Кремний"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "crystalline, reflective with bluish-tinged faces",
+			"ru": "коричневый или тёмно-серый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "3265 °C",
+		"tempMelting": "1414 °C",
+		"val": [
+			"-4",
+			"2",
+			"4"
+		]
+	},
+	{
+		"atomMass": "30.9738",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая, объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Hennig Brand",
+			"ru": "Хенниг Бранд"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p3",
+		"element": "P",
+		"elnegativity": "2,06",
+		"group": "5 A",
+		"id": 15,
+		"name": {
+			"en": "Phosphorus",
+			"ru": "Фосфор"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "colourless, waxy white, yellow, scarlet, red, violet, black",
+			"ru": "белый, красный, жёлтый, черный "
+		},
+		"tempBoiling": "279,85 °C",
+		"tempMelting": "44,15 °C",
+		"val": [
+			"-3",
+			"3",
+			"5"
+		]
+	},
+	{
+		"atomMass": "32.065",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Chinese",
+			"ru": "Древние китайцы"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p4",
+		"element": "S",
+		"elnegativity": "2,44",
+		"group": "6 A",
+		"id": 16,
+		"name": {
+			"en": "Sulfur",
+			"ru": "Сера"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "lemon yellow",
+			"ru": "светло-желтый"
+		},
+		"tempBoiling": "444,67 °С",
+		"tempMelting": "112,85 °С",
+		"val": [
+			"-2",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "35.453",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Carl Wilhelm Scheele",
+			"ru": "Карл Вильгельм Шееле"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p5",
+		"element": "Cl",
+		"elnegativity": "2,83",
+		"group": "7 A",
+		"id": 17,
+		"name": {
+			"en": "Chlorine",
+			"ru": "Хлор"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "yellow-green",
+			"ru": "желтовато-зелёный"
+		},
+		"subclass": {
+			"en": "Halogens",
+			"ru": "Галогены"
+		},
+		"tempBoiling": "−34.04 °C",
+		"tempMelting": "−101.5 °C",
+		"val": [
+			"-1",
+			"1",
+			"3",
+			"5",
+			"7"
+		]
+	},
+	{
+		"atomMass": "39.948",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "William Ramsay, John Strutt",
+			"ru": "Уильям Рамзай, Джон Стретт"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6",
+		"element": "Ar",
+		"elnegativity": "3,2",
+		"group": "8 A",
+		"id": 18,
+		"name": {
+			"en": "Argon",
+			"ru": "Аргон"
+		},
+		"period": "3",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "-185,85 °C",
+		"tempMelting": "-189,35 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "39.0983",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмно-центрированная"
+		},
+		"discoverer": {
+			"en": "Humphry Davy",
+			"ru": "Гемфри Дэви"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 4s1",
+		"element": "K",
+		"elnegativity": "0,91",
+		"group": "1 A",
+		"id": 19,
+		"name": {
+			"en": "Potassium",
+			"ru": "Калий"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silvery gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkali metals",
+			"ru": "Щелочные металлы"
+		},
+		"tempBoiling": "773,85 °C",
+		"tempMelting": "63,65 °C",
+		"val": [
+			"1"
+		]
+	},
+	{
+		"atomMass": "40.078",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "Humphry Davy",
+			"ru": "Гемфри Дэви"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 4s2",
+		"element": "Ca",
+		"elnegativity": "1,04",
+		"group": "2 A",
+		"id": 20,
+		"name": {
+			"en": "Calcium",
+			"ru": "Кальций"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silvery gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkaline earth metals",
+			"ru": "Щёлочноземельные металлы"
+		},
+		"tempBoiling": "1483,85 °C",
+		"tempMelting": "838,85 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "44.956",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Lars Fredrik Nilson",
+			"ru": "Ларс Фредерик Нильсон"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d1 4s2",
+		"element": "Sc",
+		"elnegativity": "1,2",
+		"group": "3 B",
+		"id": 21,
+		"name": {
+			"en": "Scandium",
+			"ru": "Скандий"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "hexagonal close-packed",
+			"ru": "серебристый с жёлтым отливом"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2836,85 °C",
+		"tempMelting": "1540,85 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "47.867",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Martin Heinrich Klaproth",
+			"ru": "Мартин Генрих Клапрот"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d2 4s2",
+		"element": "Ti",
+		"elnegativity": "1,32",
+		"group": "4 B",
+		"id": 22,
+		"name": {
+			"en": "Titanium",
+			"ru": "Титан"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2862 °C",
+		"tempMelting": "882 °C",
+		"val": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "50.942",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Andrés Manuel del Río",
+			"ru": "Андрес Мануэль дель Рио"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d3 4s2",
+		"element": "V",
+		"elnegativity": "1,45",
+		"group": "5 B",
+		"id": 23,
+		"name": {
+			"en": "Vanadium",
+			"ru": "Ванадий"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "blue-silver-grey",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "3377 °C",
+		"tempMelting": "1887 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5"
+		]
+	},
+	{
+		"atomMass": "51.996",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Louis-Nicolas Vauquelin",
+			"ru": "Луи-Николя Воклен"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d5 4s1",
+		"element": "Cr",
+		"elnegativity": "1,56",
+		"group": "6 B",
+		"id": 24,
+		"name": {
+			"en": "Chromium",
+			"ru": "Хром"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silvery",
+			"ru": "голубовато-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2671 °C",
+		"tempMelting": "1907 °C",
+		"val": [
+			"2",
+			"3",
+			"6"
+		]
+	},
+	{
+		"atomMass": "54.938",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​body-centered cubic",
+			"ru": "кубическая"
+		},
+		"discoverer": {
+			"en": "Carl Wilhelm Scheele, Johan Gottlieb Gahn",
+			"ru": "Карл Вильгельм Шееле, Юхан Готлиб Ган"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d5 4s2",
+		"element": "Mn",
+		"elnegativity": "1,60",
+		"group": "7 B",
+		"id": 25,
+		"name": {
+			"en": "Manganese",
+			"ru": "Марганец"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2061 °C",
+		"tempMelting": "1246 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5",
+			"7"
+		]
+	},
+	{
+		"atomMass": "55.845",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d6 4s2",
+		"element": "Fe",
+		"elnegativity": "1,64",
+		"group": "8 B",
+		"groupInfo": "1",
+		"id": 26,
+		"name": {
+			"en": "Iron",
+			"ru": "Железо"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2862 °C",
+		"tempMelting": "1538,85 °C",
+		"val": [
+			"2",
+			"3",
+			"6"
+		]
+	},
+	{
+		"atomMass": "58.933",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Georg Brandt",
+			"ru": "Георг Бранд"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d7 4s2",
+		"element": "Co",
+		"elnegativity": "1,70",
+		"group": "8 B",
+		"groupInfo": "2",
+		"id": 27,
+		"name": {
+			"en": "Cobalt",
+			"ru": "Кобальт"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "metallic gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2927 °C",
+		"tempMelting": "1495 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "58.693",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Axel Frederic von Cronstedt",
+			"ru": "Аксель Кронштедт"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d8 4s2",
+		"element": "Ni",
+		"elnegativity": "1,75",
+		"group": "8 B",
+		"groupInfo": "3",
+		"id": 28,
+		"name": {
+			"en": "Nickel",
+			"ru": "Никель"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "lustrous, metallic, silver",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2730 °C",
+		"tempMelting": "1455 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "63.546",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s1",
+		"element": "Cu",
+		"elnegativity": "1,75",
+		"group": "1 B",
+		"id": 29,
+		"name": {
+			"en": "Copper",
+			"ru": "Медь"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "red-orange",
+			"ru": "золотисто-розовый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2562 °C",
+		"tempMelting": "1083,4 °C",
+		"val": [
+			"1",
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "65.38",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2",
+		"element": "Zn",
+		"elnegativity": "1,66",
+		"group": "2 B",
+		"id": 30,
+		"name": {
+			"en": "Zinc",
+			"ru": "Цинк"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silver-gray",
+			"ru": "голубовато-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "907 °C",
+		"tempMelting": "419.53 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "69.723",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Paul Emile Lecoq de Boisbaudran",
+			"ru": "Поль Эмиль Лекок де Буабодран"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p1",
+		"element": "Ga",
+		"elnegativity": "1,82",
+		"group": "3 A",
+		"id": 31,
+		"name": {
+			"en": "Gallium",
+			"ru": "Галлий"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "silver-white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "2400 °C",
+		"tempMelting": "29,8 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "72.64",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "diamond cubic",
+			"ru": "алмазная"
+		},
+		"discoverer": {
+			"en": "Clemens Alexander Winkler",
+			"ru": "Клеменс Александр Винклер"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2",
+		"element": "Ge",
+		"elnegativity": "2,02",
+		"group": "4 A",
+		"id": 32,
+		"name": {
+			"en": "Germanium",
+			"ru": "Германий"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "grayish-white",
+			"ru": "светлой-серый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "2833 °C",
+		"tempMelting": "938.25 °C",
+		"val": [
+			"2",
+			"4"
+		]
+	},
+	{
+		"atomMass": "74.922",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "rhombohedral",
+			"ru": "тригональная"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p3",
+		"element": "As",
+		"elnegativity": "2,20",
+		"group": "5 A",
+		"id": 33,
+		"name": {
+			"en": "Arsenic",
+			"ru": "Мышьяк"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "metallic grey",
+			"ru": "зеленоватый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "2833 °C",
+		"tempMelting": "938.25 °C",
+		"val": [
+			"-3",
+			"3",
+			"5"
+		]
+	},
+	{
+		"atomMass": "78.96",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "hexagonal",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Clemens Alexander Winkler",
+			"ru": "Йёнс Якоб Берцелиус"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p4",
+		"element": "Se",
+		"elnegativity": "2,48",
+		"group": "6 A",
+		"id": 34,
+		"name": {
+			"en": "Selenium",
+			"ru": "Селен"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "black, red, gray",
+			"ru": "черный, серый и красный"
+		},
+		"tempBoiling": "685 °C",
+		"tempMelting": "221 °C",
+		"val": [
+			"-2",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "79.904",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Antoine-Jérôme Balard",
+			"ru": "Антуан Жером Балар"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p5",
+		"element": "Br",
+		"elnegativity": "2,74",
+		"group": "7 A",
+		"id": 35,
+		"name": {
+			"en": "Bromine",
+			"ru": "Бром"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "red-brown",
+			"ru": "красно-бурый"
+		},
+		"subclass": {
+			"en": "Halogens",
+			"ru": "Галогены"
+		},
+		"tempBoiling": "58.8 °C",
+		"tempMelting": "−7.2 °C",
+		"val": [
+			"-1",
+			"1",
+			"3",
+			"5",
+			"7"
+		]
+	},
+	{
+		"atomMass": "83.798",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "William Ramsay, Morris Travers",
+			"ru": "Уильям Рамзай, Моррис Траверс"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6",
+		"element": "Kr",
+		"elnegativity": "2,94",
+		"group": "8 A",
+		"id": 36,
+		"name": {
+			"en": "Krypton",
+			"ru": "Криптон"
+		},
+		"period": "4",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "−153.415 °C",
+		"tempMelting": "−157.37 °C",
+		"val": [
+			"2",
+			"4"
+		]
+	},
+	{
+		"atomMass": "85.468",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Robert Bunsen, Gustav Kirchhoff",
+			"ru": "Роберт Бунзен, Густав Кирхгоф"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s1",
+		"element": "Rb",
+		"elnegativity": "0,89",
+		"group": "1 A",
+		"id": 37,
+		"name": {
+			"en": "Rubidium",
+			"ru": "Рубидий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "grey white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkali metals",
+			"ru": "Щелочные металлы"
+		},
+		"tempBoiling": "688 °C",
+		"tempMelting": "39.30 °C",
+		"val": [
+			"1"
+		]
+	},
+	{
+		"atomMass": "87.62",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Adair Crawford, Martin Klaproth",
+			"ru": "Адер Крофорд, Мартин Клапрот"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s2",
+		"element": "Sr",
+		"elnegativity": "0,99",
+		"group": "2 A",
+		"id": 38,
+		"name": {
+			"en": "Strontium",
+			"ru": "Стронций"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "grey white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkaline earth metals",
+			"ru": "Щёлочноземельные металлы"
+		},
+		"tempBoiling": "1377 °C",
+		"tempMelting": "777 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "88.906",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Johan Gadolin",
+			"ru": "Юхан Гадолин"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d1 5s2",
+		"element": "Y",
+		"elnegativity": "1,11",
+		"group": "3 B",
+		"id": 39,
+		"name": {
+			"en": "Yttrium",
+			"ru": "Иттрий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "светло-серебристый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2930 °C",
+		"tempMelting": "1526 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "91.224",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Martin Heinrich Klaproth",
+			"ru": "Мартин Генрих Клапрот"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d2 5s2",
+		"element": "Zr",
+		"elnegativity": "1,22",
+		"group": "4 B",
+		"id": 40,
+		"name": {
+			"en": "Zirconium",
+			"ru": "Цирконий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4377 °C",
+		"tempMelting": "1855 °C",
+		"val": [
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "92.906",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Charles Hatchett",
+			"ru": "Чарльз Хатчет"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d4 5s1",
+		"element": "Nb",
+		"elnegativity": "1,23",
+		"group": "5 B",
+		"id": 41,
+		"name": {
+			"en": "Niobium",
+			"ru": "Ниобий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4744 °C",
+		"tempMelting": "2477 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5"
+		]
+	},
+	{
+		"atomMass": "95.96",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Carl Wilhelm Scheele",
+			"ru": "Карл Вильгельм Шееле"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d5 5s1",
+		"element": "Mo",
+		"elnegativity": "1,30",
+		"group": "6 B",
+		"id": 42,
+		"name": {
+			"en": "Molybdenum",
+			"ru": "Молибден"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "gray metallic",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4639 °C",
+		"tempMelting": "2623 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "[98]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Carlo Perrier, Emilio Segrè",
+			"ru": "Карло Перье, Эмилио Сегре"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d5 5s2",
+		"element": "Tc",
+		"elnegativity": "1,36",
+		"group": "7 B",
+		"id": 43,
+		"name": {
+			"en": "Technetium",
+			"ru": "Технеций"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "shiny gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4265 °C",
+		"tempMelting": "2157 °C",
+		"val": [
+			"4",
+			"6",
+			"7"
+		]
+	},
+	{
+		"atomMass": "101.07",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Karl Ernst Claus",
+			"ru": "Карл Карлович Клаус"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d7 5s1",
+		"element": "Ru",
+		"elnegativity": "1,42",
+		"group": "8 B",
+		"groupInfo": "1",
+		"id": 44,
+		"name": {
+			"en": "Ruthenium",
+			"ru": "Рутений"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4077 °C",
+		"tempMelting": "2334 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8"
+		]
+	},
+	{
+		"atomMass": "102.905",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "William Hyde Wollaston",
+			"ru": "Уильям Хайд Волластон"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d8 5s1",
+		"element": "Rh",
+		"elnegativity": "1,45",
+		"group": "8 B",
+		"groupInfo": "2",
+		"id": 45,
+		"name": {
+			"en": "Rhodium",
+			"ru": "Родий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "3695 °C",
+		"tempMelting": "1964 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "106.42",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "William Hyde Wollaston",
+			"ru": "Уильям Хайд Волластон"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s0",
+		"element": "Pd",
+		"elnegativity": "1,35",
+		"group": "8 B",
+		"groupInfo": "3",
+		"id": 46,
+		"name": {
+			"en": "Palladium",
+			"ru": "Палладий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2963 °C",
+		"tempMelting": "1554.9 °C",
+		"val": [
+			"2",
+			"4"
+		]
+	},
+	{
+		"atomMass": "107.868",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s1",
+		"element": "Ag",
+		"elnegativity": "1,42",
+		"group": "1 B",
+		"id": 47,
+		"name": {
+			"en": "Silver",
+			"ru": "Серебро"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2162 °C",
+		"tempMelting": "962 °C",
+		"val": [
+			"1",
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "112.411",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Friedrich Stromeyer",
+			"ru": "Фридрих Штромейер"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2",
+		"element": "Cd",
+		"elnegativity": "1,46",
+		"group": "2 B",
+		"id": 48,
+		"name": {
+			"en": "Cadmium",
+			"ru": "Кадмий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery bluish-gray",
+			"ru": "серебристо-серый "
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "767 °C",
+		"tempMelting": "321.07 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "114.818",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "tetragonal",
+			"ru": "тетрагональная"
+		},
+		"discoverer": {
+			"en": "Ferdinand Reich, Hieronymous Theodor Richter",
+			"ru": "Фердинанд Рейх, Иероним Теодор Рихтер"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p1",
+		"element": "In",
+		"elnegativity": "1,49",
+		"group": "3 A",
+		"id": 49,
+		"name": {
+			"en": "Indium",
+			"ru": "Индий"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery lustrous gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "2072 °C",
+		"tempMelting": "156.5985 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "118.710",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "tetragonal",
+			"ru": "тетрагональная"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p2",
+		"element": "Sn",
+		"elnegativity": "1,72",
+		"group": "4 A",
+		"id": 50,
+		"name": {
+			"en": "Tin",
+			"ru": "Олово"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery-white or gray",
+			"ru": "серебристо-белый или серый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "2602 °C",
+		"tempMelting": "231.93 °C",
+		"val": [
+			"2",
+			"4"
+		]
+	},
+	{
+		"atomMass": "121.760",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "rhombohedral",
+			"ru": "тригональная"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p3",
+		"element": "Sb",
+		"elnegativity": "1,82",
+		"group": "5 A",
+		"id": 51,
+		"name": {
+			"en": "Antimony",
+			"ru": "Сурьма"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery lustrous gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "1635 °C",
+		"tempMelting": "630.63 °C",
+		"val": [
+			"-3",
+			"3",
+			"5"
+		]
+	},
+	{
+		"atomMass": "127.60",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "hexagonal",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Franz-Joseph Müller von Reichenstein",
+			"ru": "Ференц Мюллер фон Рейхенштейн"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p4",
+		"element": "Te",
+		"elnegativity": "2,01",
+		"group": "6 A",
+		"id": 52,
+		"name": {
+			"en": "Tellurium",
+			"ru": "Теллур"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "silvery lustrous gray, brown-black powder ",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "988 °C",
+		"tempMelting": "449.51 °C",
+		"val": [
+			"-2",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "126.904",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Bernard Courtois",
+			"ru": "Бернар Куртуа"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p5",
+		"element": "I",
+		"elnegativity": "2,21",
+		"group": "7 A",
+		"id": 53,
+		"name": {
+			"en": "Iodine",
+			"ru": "Иод"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "lustrous metallic gray, violet as a gas",
+			"ru": "тёмно-серый, фиолетовый (газ)"
+		},
+		"subclass": {
+			"en": "Halogens",
+			"ru": "Галогены"
+		},
+		"tempBoiling": "184.3 °C",
+		"tempMelting": "113.7 °C",
+		"val": [
+			"-1",
+			"1",
+			"3",
+			"5",
+			"7"
+		]
+	},
+	{
+		"atomMass": "131.293",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "William Ramsay, Morris Travers",
+			"ru": "Уильям Рамзай, Моррис Траверс"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6",
+		"element": "Xe",
+		"elnegativity": "2,40",
+		"group": "8 A",
+		"id": 54,
+		"name": {
+			"en": "Xenon",
+			"ru": "Ксенон"
+		},
+		"period": "5",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "−108.099 °C",
+		"tempMelting": "−111.75 °C",
+		"val": [
+			"2",
+			"4",
+			"6",
+			"8"
+		]
+	},
+	{
+		"atomMass": "132.905",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Robert Bunsen, Gustav Kirchhoff",
+			"ru": "Роберт Бунзен, Густав Кирхгоф"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 6s1",
+		"element": "Cs",
+		"elnegativity": "0,86",
+		"group": "1 A",
+		"id": 55,
+		"name": {
+			"en": "Cesium",
+			"ru": "Цезий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery gold",
+			"ru": "серебристо-жёлтый"
+		},
+		"subclass": {
+			"en": "Alkali metals",
+			"ru": "Щелочные металлы"
+		},
+		"tempBoiling": "671 °C",
+		"tempMelting": "28.5 °C",
+		"val": [
+			"1"
+		]
+	},
+	{
+		"atomMass": "137.327",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированная"
+		},
+		"discoverer": {
+			"en": "Carl Wilhelm Scheele",
+			"ru": "Карл Вильгельм Шееле"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 6s2",
+		"element": "Ba",
+		"elnegativity": "0,97",
+		"group": "2 A",
+		"id": 56,
+		"name": {
+			"en": "Barium",
+			"ru": "Барий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkaline earth metals",
+			"ru": "Щёлочноземельные металлы"
+		},
+		"tempBoiling": "1845 °C",
+		"tempMelting": "727 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "138.905",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Carl Gustaf Mosander",
+			"ru": "Карл Густав Мосандер"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f0 5d1 6s2",
+		"element": "La",
+		"elnegativity": "1,08",
+		"group": "3 B",
+		"id": 57,
+		"name": {
+			"en": "Lanthanum",
+			"ru": "Лантан"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3464 °C",
+		"tempMelting": "920 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "140.116",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Martin Heinrich Klaproth, Jöns Jakob Berzelius, Wilhelm Hisinger",
+			"ru": "Йёнс Берцелиус, Вильгельм Хизингер и Мартин Генрих Клапрот"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f1 5d1 6s2",
+		"element": "Ce",
+		"elnegativity": "1,06",
+		"group": "3 B",
+		"id": 58,
+		"name": {
+			"en": "Cerium",
+			"ru": "Церий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3443 °C",
+		"tempMelting": "795 °C",
+		"val": [
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "140.908",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Carl Auer von Welsbach",
+			"ru": "Карл Ауэр фон Вельсбах"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f3 6s2",
+		"element": "Pr",
+		"elnegativity": "1,07",
+		"group": "3 B",
+		"id": 59,
+		"name": {
+			"en": "Praseodymium",
+			"ru": "Празеодим"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "grayish white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3130 °C",
+		"tempMelting": "935 °C",
+		"val": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "144.242",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Carl Auer von Welsbach",
+			"ru": "Карл Ауэр фон Вельсбах"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f4 5d0 6s2",
+		"element": "Nd",
+		"elnegativity": "1,07",
+		"group": "3 B",
+		"id": 60,
+		"name": {
+			"en": "Neodymium",
+			"ru": "Неодим"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "metallic",
+			"ru": "светло-серый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3074 °C",
+		"tempMelting": "1024 °C",
+		"val": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "145",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Jacob Marinsky",
+			"ru": "Джейкоб Маринский"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f5 5d0 6s2",
+		"element": "Pm",
+		"elnegativity": "1,07",
+		"group": "3 B",
+		"id": 61,
+		"name": {
+			"en": "Promethium",
+			"ru": "Прометий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "metallic",
+			"ru": "светло-серый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3000 °C",
+		"tempMelting": "1024 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "150.36",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "​rhombohedral",
+			"ru": "ромбоэдрическая"
+		},
+		"discoverer": {
+			"en": "Paul Emile Lecoq de Boisbaudran",
+			"ru": "Поль Эмиль Лекок де Буабодран"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f6 5d0 6s2",
+		"element": "Sm",
+		"elnegativity": "1,07",
+		"group": "3 B",
+		"id": 62,
+		"name": {
+			"en": "Samarium",
+			"ru": "Самарий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "1900 °C",
+		"tempMelting": "1072 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "151.964",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "​rhombohedral",
+			"ru": "ромбоэдрическая"
+		},
+		"discoverer": {
+			"en": "Eugène-Anatole Demarçay",
+			"ru": "Эжен Демарсе"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f7 5d0 6s2",
+		"element": "Eu",
+		"elnegativity": "1,01",
+		"group": "3 B",
+		"id": 63,
+		"name": {
+			"en": "Europium",
+			"ru": "Европий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "1529 °C",
+		"tempMelting": "826 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "157.25",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Paul Emile Lecoq de Boisbaudran",
+			"ru": "Поль Эмиль Лекок де Буабодран"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f7 5d1 6s2",
+		"element": "Gd",
+		"elnegativity": "1,11",
+		"group": "3 B",
+		"id": 64,
+		"name": {
+			"en": "Gadolinium",
+			"ru": "Гадолиний"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3000 °C",
+		"tempMelting": "1312 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "158.925",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Carl Gustaf Mosander",
+			"ru": "Карл Густав Мосандер"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f9 5d0 6s2",
+		"element": "Tb",
+		"elnegativity": "1,10",
+		"group": "3 B",
+		"id": 65,
+		"name": {
+			"en": "Terbium",
+			"ru": "Тербий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3123 °C",
+		"tempMelting": "1356 °C",
+		"val": [
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "162.500",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Paul Emile Lecoq de Boisbaudran",
+			"ru": "Поль Эмиль Лекок де Буабодран"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f10 5d0 6s2",
+		"element": "Dy",
+		"elnegativity": "1,10",
+		"group": "3 B",
+		"id": 66,
+		"name": {
+			"en": "Dysprosium",
+			"ru": "Диспрозий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "2562 °C",
+		"tempMelting": "1407 °C",
+		"val": [
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "164.930",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Per Teodor Cleve",
+			"ru": "Пер Теодор Клеве"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f11 5d0 6s2",
+		"element": "Ho",
+		"elnegativity": "1,10",
+		"group": "3 B",
+		"id": 67,
+		"name": {
+			"en": "Holmium",
+			"ru": "Гольмий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "2600 °C",
+		"tempMelting": "1461 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "167.259",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Carl Gustaf Mosander",
+			"ru": "Карл Густав Мосандер"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f12 5d0 6s2",
+		"element": "Er",
+		"elnegativity": "1,11",
+		"group": "3 B",
+		"id": 68,
+		"name": {
+			"en": "Erbium",
+			"ru": "Эрбий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "2868 °C",
+		"tempMelting": "1529 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "168.934",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Per Teodor Cleve",
+			"ru": "Пер Теодор Клеве"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f13 5d0 6s2",
+		"element": "Tm",
+		"elnegativity": "1,11",
+		"group": "3 B",
+		"id": 69,
+		"name": {
+			"en": "Thulium",
+			"ru": "Тулий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery gray",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "1950 °C",
+		"tempMelting": "1545 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "173.054",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Jean Charles Galissard de Marignac",
+			"ru": "Жан Шарль Галиссар де Мариньяк"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d0 6s2",
+		"element": "Yb",
+		"elnegativity": "1,06",
+		"group": "3 B",
+		"id": 70,
+		"name": {
+			"en": "Ytterbium",
+			"ru": "Иттербий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "1196 °C",
+		"tempMelting": "824 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "174.967",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Georges Urbain",
+			"ru": "Жорж Урбэн"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d1 6s2",
+		"element": "Lu",
+		"elnegativity": "1,14",
+		"group": "3 B",
+		"id": 71,
+		"name": {
+			"en": "Lutetium",
+			"ru": "Лютеций"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Lanthanides",
+			"ru": "Лантаноиды"
+		},
+		"tempBoiling": "3402 °C",
+		"tempMelting": "1652 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "178.49",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Dirk Coster, Hevesy György",
+			"ru": "Дирк Костер, Дьёрдь де Хевеши"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d2 6s2",
+		"element": "Hf",
+		"elnegativity": "1,23",
+		"group": "4 B",
+		"id": 72,
+		"name": {
+			"en": "Hafnium",
+			"ru": "Гафний"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "steel gray",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4603 °C",
+		"tempMelting": "2233 °C",
+		"val": [
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "180.948",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "body-centered cubic, ​tetragonal",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Anders Gustaf Ekeberg",
+			"ru": "Андерс Густав Экеберг"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d3 6s2",
+		"element": "Ta",
+		"elnegativity": "1,33",
+		"group": "5 B",
+		"id": 73,
+		"name": {
+			"en": "Tantalum",
+			"ru": "Тантал"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "gray blue",
+			"ru": "серый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "5458 °C",
+		"tempMelting": "3017 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5"
+		]
+	},
+	{
+		"atomMass": "183.84",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Carl Wilhelm Scheele",
+			"ru": "Карл Вильгельм Шееле"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d4 6s2",
+		"element": "W",
+		"elnegativity": "1,40",
+		"group": "6 B",
+		"id": 74,
+		"name": {
+			"en": "Tungsten",
+			"ru": "Вольфрам"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "grayish white",
+			"ru": "стальной белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "5930 °C",
+		"tempMelting": "3422 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "186.207",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Ida Noddack, Walter Noddack",
+			"ru": "Ида Ноддак-Такке, Вальтер Ноддак"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d5 6s2",
+		"element": "Re",
+		"elnegativity": "1,46",
+		"group": "7 B",
+		"id": 75,
+		"name": {
+			"en": "Rhenium",
+			"ru": "Рений"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery-grayish",
+			"ru": "серебристо-белый "
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "5596 °C",
+		"tempMelting": "3186 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"6",
+			"7"
+		]
+	},
+	{
+		"atomMass": "190.23",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Smithson Tennant",
+			"ru": "Смитсон Теннант"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d6 6s2",
+		"element": "Os",
+		"elnegativity": "1,52",
+		"group": "8 B",
+		"groupInfo": "1",
+		"id": 76,
+		"name": {
+			"en": "Osmium",
+			"ru": "Осмий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery, blue cast",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "5012 °C",
+		"tempMelting": "3033 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"8"
+		]
+	},
+	{
+		"atomMass": "192.217",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Smithson Tennant",
+			"ru": "Смитсон Теннант"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d7 6s2",
+		"element": "Ir",
+		"elnegativity": "1,55",
+		"group": "8 B",
+		"groupInfo": "2",
+		"id": 77,
+		"name": {
+			"en": "Iridium",
+			"ru": "Иридий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "4130 °C",
+		"tempMelting": "2446 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		]
+	},
+	{
+		"atomMass": "195.084",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "José Antonio de Mendoza",
+			"ru": "Хосе Антонио де Мендоса"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d9 6s1",
+		"element": "Pt",
+		"elnegativity": "1,44",
+		"group": "8 B",
+		"groupInfo": "3",
+		"id": 78,
+		"name": {
+			"en": "Platinum",
+			"ru": "Платина"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "3825 °C",
+		"tempMelting": "1768.3 °C",
+		"val": [
+			"2",
+			"4",
+			"5",
+			"6"
+		]
+	},
+	{
+		"atomMass": "196.967",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s1",
+		"element": "Au",
+		"elnegativity": "1,42",
+		"group": "1 B",
+		"id": 79,
+		"name": {
+			"en": "Gold",
+			"ru": "Золото"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "metallic yellow",
+			"ru": "жёлтый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "2970 °C",
+		"tempMelting": "1064.18 °C",
+		"val": [
+			"1",
+			"3"
+		]
+	},
+	{
+		"atomMass": "200.59",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "rhombohedral",
+			"ru": "ромбоэдрическая"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2",
+		"element": "Hg",
+		"elnegativity": "1,44",
+		"group": "2 B",
+		"id": 80,
+		"name": {
+			"en": "Mercury",
+			"ru": "Ртуть"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "356.73 °C",
+		"tempMelting": "−38.8290 °C",
+		"val": [
+			"1",
+			"2"
+		]
+	},
+	{
+		"atomMass": "204.383",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "William Crookes",
+			"ru": "Уильям Крукс"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p1",
+		"element": "Tl",
+		"elnegativity": "1,44",
+		"group": "3 A",
+		"id": 81,
+		"name": {
+			"en": "Thallium",
+			"ru": "Таллий"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "1473 °C",
+		"tempMelting": "304 °C",
+		"val": [
+			"1",
+			"3"
+		]
+	},
+	{
+		"atomMass": "207.2",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2",
+		"element": "Pb",
+		"elnegativity": "1,67",
+		"group": "4 A",
+		"id": 82,
+		"name": {
+			"en": "Lead",
+			"ru": "Свинец"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "metallic gray",
+			"ru": "серебристо-серый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "1749 °C",
+		"tempMelting": "327.46 °C",
+		"val": [
+			"2",
+			"4"
+		]
+	},
+	{
+		"atomMass": "208.980",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "rhombohedral",
+			"ru": "ромбоэдрическая"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p3",
+		"element": "Bi",
+		"elnegativity": "1,67",
+		"group": "5 A",
+		"id": 83,
+		"name": {
+			"en": "Bismuth",
+			"ru": "Висмут"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "lustrous silver",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "1564 °C",
+		"tempMelting": "271.5 °C",
+		"val": [
+			"-3",
+			"3",
+			"5"
+		]
+	},
+	{
+		"atomMass": "[209]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "cubic",
+			"ru": "кубическая"
+		},
+		"discoverer": {
+			"en": "Pierre Curie, Marie Skłodowska-Curie",
+			"ru": "Пьер Кюри, Мария Склодовская-Кюри"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p4",
+		"element": "Po",
+		"elnegativity": "1,76",
+		"group": "6 A",
+		"id": 84,
+		"name": {
+			"en": "Polonium",
+			"ru": "Полоний"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Metalloids",
+			"ru": "Полуметаллы"
+		},
+		"tempBoiling": "962 °C",
+		"tempMelting": "254 °C",
+		"val": [
+			"-2",
+			"2",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "[210]",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "гранецентрированная кубическая атомная"
+		},
+		"discoverer": {
+			"en": "Dale Corson, Kenneth MacKenzie, Emilio Segrè",
+			"ru": "Дэйл Корсон, Кеннет МакКензи, Эмилио Сегре"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p5",
+		"element": "At",
+		"elnegativity": "1,96",
+		"group": "7 A",
+		"id": 85,
+		"name": {
+			"en": "Astatine",
+			"ru": "Астат"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "probably metallic",
+			"ru": "чёрно-синий"
+		},
+		"subclass": {
+			"en": "Halogens",
+			"ru": "Галогены"
+		},
+		"tempBoiling": "337 °C",
+		"tempMelting": "302 °C",
+		"val": [
+			"-1",
+			"1",
+			"5"
+		]
+	},
+	{
+		"atomMass": "[222]",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Friedrich Ernst Dorn",
+			"ru": "Фридерик Эрнст Дорн"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6",
+		"element": "Rn",
+		"elnegativity": "2,06",
+		"group": "8 A",
+		"id": 86,
+		"name": {
+			"en": "Radon",
+			"ru": "Радон"
+		},
+		"period": "6",
+		"physColor": {
+			"en": "colorless",
+			"ru": "бесцветный"
+		},
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "−61.7 °C",
+		"tempMelting": "−71 °C",
+		"val": [
+			"2",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "[223]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Marguerite Catherine Perey",
+			"ru": "Маргарита Катрин Перей"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 7s1",
+		"element": "Fr",
+		"elnegativity": "0,86",
+		"group": "1 A",
+		"id": 87,
+		"name": {
+			"en": "Francium",
+			"ru": "Франций"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "metallic",
+			"ru": "металлический"
+		},
+		"subclass": {
+			"en": "Alkali metals",
+			"ru": "Щелочные металлы"
+		},
+		"tempBoiling": "677 °C",
+		"tempMelting": "27 °C",
+		"val": [
+			"1"
+		]
+	},
+	{
+		"atomMass": "[226]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "red",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "кубическая объёмноцентрированая"
+		},
+		"discoverer": {
+			"en": "Pierre Curie, Marie Skłodowska-Curie",
+			"ru": "Пьер Кюри, Мария Склодовская-Кюри"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 7s2",
+		"element": "Ra",
+		"elnegativity": "0,97",
+		"group": "2 A",
+		"id": 88,
+		"name": {
+			"en": "Radium",
+			"ru": "Радий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery white metallic",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Alkaline earth metals",
+			"ru": "Щёлочноземельные металлы"
+		},
+		"tempBoiling": "1737 °C",
+		"tempMelting": "960 °C",
+		"val": [
+			"2"
+		]
+	},
+	{
+		"atomMass": "[227]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "André-Louis Debierne",
+			"ru": "Андре-Луи Дебьерн"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f0 6d1 7s2",
+		"element": "Ac",
+		"elnegativity": "1,00",
+		"group": "3 B",
+		"id": 89,
+		"name": {
+			"en": "Actinium",
+			"ru": "Актиний"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery-white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "3200±300 °C",
+		"tempMelting": "1227 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "232.038",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Jöns Jakob Berzelius",
+			"ru": "Йёнс Якоб Берцелиус"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f0 6d2 7s2",
+		"element": "Th",
+		"elnegativity": "1,11",
+		"group": "3 B",
+		"id": 90,
+		"name": {
+			"en": "Thorium",
+			"ru": "Торий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "4788 °C",
+		"tempMelting": "1750 °C",
+		"val": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "231.036",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "tetragonal",
+			"ru": "тетрагональная"
+		},
+		"discoverer": {
+			"en": "William Crookes",
+			"ru": "Уильям Крукс"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f2 6d1 7s2",
+		"element": "Pa",
+		"elnegativity": "1,14",
+		"group": "3 B",
+		"id": 91,
+		"name": {
+			"en": "Protactinium",
+			"ru": "Протактиний"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery metallic",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "4027 °C",
+		"tempMelting": "1568 °C",
+		"val": [
+			"3",
+			"4",
+			"5"
+		]
+	},
+	{
+		"atomMass": "238.029",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "​orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Martin Heinrich Klaproth",
+			"ru": "Мартин Генрих Клапрот"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f3 6d1 7s2",
+		"element": "U",
+		"elnegativity": "1,22",
+		"group": "3 B",
+		"id": 92,
+		"name": {
+			"en": "Uranium",
+			"ru": "Уран"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery gray metallic",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "4131 °C",
+		"tempMelting": "1132.2 °C",
+		"val": [
+			"3",
+			"4",
+			"5",
+			"6"
+		]
+	},
+	{
+		"atomMass": "[237]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "​orthorhombic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Edwin McMillan, Philip Abelson",
+			"ru": "Эдвин Макмиллан, Филипп Абельсон"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f4 6d1 7s2",
+		"element": "Np",
+		"elnegativity": "1,22",
+		"group": "3 B",
+		"id": 93,
+		"name": {
+			"en": "Neptunium",
+			"ru": "Нептуний"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery metallic",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "4174 °C",
+		"tempMelting": "639±3 °C",
+		"val": [
+			"3",
+			"4",
+			"5",
+			"6",
+			"7"
+		]
+	},
+	{
+		"atomMass": "[244]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "monoclinic",
+			"ru": "орторомбическая"
+		},
+		"discoverer": {
+			"en": "Glenn Seaborg, Arthur Wahl? Joseph Kennedy, Emilio Segrè",
+			"ru": "Гленн Сиборг, Артур Уол, Джозеф Кеннеди, Эмилио Сегре"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f6 6d0 7s2",
+		"element": "Pu",
+		"elnegativity": "1,22",
+		"group": "3 B",
+		"id": 94,
+		"name": {
+			"en": "Plutonium",
+			"ru": "Плутоний"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "моноклинная"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "3228 °C",
+		"tempMelting": "639.4 °C",
+		"val": [
+			"3",
+			"4",
+			"5",
+			"6",
+			"7"
+		]
+	},
+	{
+		"atomMass": "[243]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Glenn Theodore Seaborg",
+			"ru": "Гленн Теодор Сиборг"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f7 6d0 7s2",
+		"element": "Am",
+		"elnegativity": "1,20 ",
+		"group": "3 B",
+		"id": 95,
+		"name": {
+			"en": "Americium",
+			"ru": "Америций"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery white",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "2607 °C",
+		"tempMelting": "1176 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		]
+	},
+	{
+		"atomMass": "[247]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Glenn Theodore Seaborg",
+			"ru": "Гленн Теодор Сиборг"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f7 6d1 7s2",
+		"element": "Cm",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 96,
+		"name": {
+			"en": "Curium",
+			"ru": "Кюрий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery metallic",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "3110 °C",
+		"tempMelting": "1340 °C",
+		"val": [
+			"2",
+			"3",
+			"4",
+			"6"
+		]
+	},
+	{
+		"atomMass": "[247]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f9 7s2",
+		"element": "Bk",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 97,
+		"name": {
+			"en": "Berkelium",
+			"ru": "Берклий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "2627 °C",
+		"tempMelting": "986 °C",
+		"val": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "[251]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "double hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f10 6d0 7s2",
+		"element": "Cf",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 98,
+		"name": {
+			"en": "Californium",
+			"ru": "Калифорний"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "1470 °C",
+		"tempMelting": "900 °C",
+		"val": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"atomMass": "[252]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f11 6d0 7s2",
+		"element": "Es",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 99,
+		"name": {
+			"en": "Einsteinium",
+			"ru": "Эйнштейний"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silver-colored",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempBoiling": "996 °C",
+		"tempMelting": "860 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "[257]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированая"
+		},
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f12 6d0 7s2",
+		"element": "Fm",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 100,
+		"name": {
+			"en": "Fermium",
+			"ru": "Фермий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silver-colored",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempMelting": "1527 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "[258]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f13 6d0 7s2",
+		"element": "Md",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 101,
+		"name": {
+			"en": "Mendelevium",
+			"ru": "Менделевий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempMelting": "827 °C",
+		"val": [
+			"1",
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "[259]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "green",
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d0 7s2",
+		"element": "No",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 102,
+		"name": {
+			"en": "Nobelium",
+			"ru": "Нобелий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempMelting": "827 °C",
+		"val": [
+			"2",
+			"3"
+		]
+	},
+	{
+		"atomMass": "[262]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли, Объединённый институт ядерных исследований"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d1 7s2",
+		"element": "Lr",
+		"elnegativity": "1,20",
+		"group": "3 B",
+		"id": 103,
+		"name": {
+			"en": "Lawrencium",
+			"ru": "Лоуренсий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Actinides",
+			"ru": "Актиноиды"
+		},
+		"tempMelting": "1627 °C",
+		"val": [
+			"3"
+		]
+	},
+	{
+		"atomMass": "[267]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "Joint Institute for Nuclear Research",
+			"ru": "Объединённый институт ядерных исследований"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d2 7s2",
+		"element": "Rf",
+		"elnegativity": "",
+		"group": "4 B",
+		"id": 104,
+		"name": {
+			"en": "Rutherfordium",
+			"ru": "Резерфордий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"tempBoiling": "5500 °C",
+		"tempMelting": "2100 °C",
+		"val": [
+			"4"
+		]
+	},
+	{
+		"atomMass": "[270]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "объёмно-центрированная кубическая"
+		},
+		"discoverer": {
+			"en": "Joint Institute for Nuclear Research",
+			"ru": "Объединённый институт ядерных исследований"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d3 7s2",
+		"element": "Db",
+		"elnegativity": "",
+		"group": "5 B",
+		"id": 105,
+		"name": {
+			"en": "Dubnium",
+			"ru": "Дубний"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"5"
+		]
+	},
+	{
+		"atomMass": "[271]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "body-centered cubic",
+			"ru": "объёмно-центрированная кубическая"
+		},
+		"discoverer": {
+			"en": "Lawrence Berkeley National Laboratory",
+			"ru": "Национальная лаборатория им. Лоуренса в Беркли"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d4 7s2",
+		"element": "Sg",
+		"elnegativity": "",
+		"group": "6 B",
+		"id": 106,
+		"name": {
+			"en": "Seaborgium",
+			"ru": "Сиборгий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"6"
+		]
+	},
+	{
+		"atomMass": "[274]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "GSI Helmholtz Centre for Heavy Ion Research",
+			"ru": "Институт тяжёлых ионов"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d5 7s2",
+		"element": "Bh",
+		"elnegativity": "",
+		"group": "7 B",
+		"id": 107,
+		"name": {
+			"en": "Bohrium",
+			"ru": "Борий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристо-белый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"7"
+		]
+	},
+	{
+		"atomMass": "[277]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "GSI Helmholtz Centre for Heavy Ion Research",
+			"ru": "Институт тяжёлых ионов"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d6 7s2",
+		"element": "Hs",
+		"elnegativity": "",
+		"group": "8 B",
+		"groupInfo": "1",
+		"id": 108,
+		"name": {
+			"en": "Hassium",
+			"ru": "Хассий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"8"
+		]
+	},
+	{
+		"atomMass": "[278]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "GSI Helmholtz Centre for Heavy Ion Research",
+			"ru": "Институт тяжёлых ионов"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d7 7s2",
+		"element": "Mt",
+		"elnegativity": "",
+		"group": "8 B",
+		"groupInfo": "2",
+		"id": 109,
+		"name": {
+			"en": "Meitnerium",
+			"ru": "Мейтнерий"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[281]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "GSI Helmholtz Centre for Heavy Ion Research",
+			"ru": "Институт тяжёлых ионов"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d8 7s2",
+		"element": "Ds",
+		"elnegativity": "",
+		"group": "8 B",
+		"groupInfo": "3",
+		"id": 110,
+		"name": {
+			"en": "Darmstadtium",
+			"ru": "Дармштадтий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[281]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "​face-centered cubic",
+			"ru": "кубическая гранецентрированная"
+		},
+		"discoverer": {
+			"en": "GSI Helmholtz Centre for Heavy Ion Research",
+			"ru": "Институт тяжёлых ионов"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d9 7s2",
+		"element": "Rg",
+		"elnegativity": "",
+		"group": "1 B",
+		"id": 111,
+		"name": {
+			"en": "Roentgenium",
+			"ru": "Рентгений"
+		},
+		"period": "7",
+		"physColor": {
+			"en": "silvery",
+			"ru": "серебристый"
+		},
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[285]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "blue",
+		"crystalStruct": {
+			"en": "hexagonal close-packed",
+			"ru": "гексагональная"
+		},
+		"discoverer": {
+			"en": "GSI Helmholtz Centre for Heavy Ion Research",
+			"ru": "Институт тяжёлых ионов"
+		},
+		"elconf": "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 5f14 6d10 7s2",
+		"element": "Cn",
+		"elnegativity": "",
+		"group": "2 B",
+		"id": 112,
+		"name": {
+			"en": "Copernicium",
+			"ru": "Коперниций"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Transition metals",
+			"ru": "Переходные металлы"
+		},
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[286]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"discoverer": {
+			"en": "Lawrence Livermore National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Ливерморская национальная лаборатория, Объединённый институт ядерных исследований"
+		},
+		"elconf": "",
+		"element": "(Uut)",
+		"elnegativity": "",
+		"group": "3 A",
+		"id": 113,
+		"name": {
+			"en": "Ununtrium",
+			"ru": "Унунтрий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "1130 °C",
+		"tempMelting": "430 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[289]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"discoverer": {
+			"en": "Lawrence Livermore National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Ливерморская национальная лаборатория, Объединённый институт ядерных исследований"
+		},
+		"elconf": "",
+		"element": "Fl",
+		"elnegativity": "",
+		"group": "4 A",
+		"id": 114,
+		"name": {
+			"en": "Flerovium",
+			"ru": "Флеровий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "147 °C",
+		"tempMelting": "67 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[289]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"discoverer": {
+			"en": "Lawrence Livermore National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Ливерморская национальная лаборатория, Объединённый институт ядерных исследований"
+		},
+		"elconf": "",
+		"element": "(Uup)",
+		"elnegativity": "",
+		"group": "5 A",
+		"id": 115,
+		"name": {
+			"en": "Ununpentium",
+			"ru": "Унунпентий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "1100 °C",
+		"tempMelting": "400 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[293]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"discoverer": {
+			"en": "Lawrence Livermore National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Ливерморская национальная лаборатория, Объединённый институт ядерных исследований"
+		},
+		"elconf": "",
+		"element": "Lv",
+		"elnegativity": "",
+		"group": "6 A",
+		"id": 116,
+		"name": {
+			"en": "Livermorium",
+			"ru": "Ливерморий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Semiconductors",
+			"ru": "Полупроводники"
+		},
+		"tempBoiling": "762–862 °C",
+		"tempMelting": "364–507 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[294]",
+		"class": {
+			"en": "Metals",
+			"ru": "Металлы"
+		},
+		"color": "yellow",
+		"discoverer": {
+			"en": "Lawrence Livermore National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Ливерморская национальная лаборатория, Объединённый институт ядерных исследований"
+		},
+		"elconf": "",
+		"element": "(Uus)",
+		"elnegativity": "",
+		"group": "7 A",
+		"id": 117,
+		"name": {
+			"en": "Ununseptium",
+			"ru": "Унунсептий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Halogens",
+			"ru": "Галогены"
+		},
+		"tempBoiling": "550 °C",
+		"tempMelting": "300–500 °C",
+		"val": [
+			"0"
+		]
+	},
+	{
+		"atomMass": "[294]",
+		"class": {
+			"en": "Nonmetals",
+			"ru": "Неметаллы"
+		},
+		"color": "yellow",
+		"discoverer": {
+			"en": "Lawrence Livermore National Laboratory, Joint Institute for Nuclear Research",
+			"ru": "Ливерморская национальная лаборатория, Объединённый институт ядерных исследований"
+		},
+		"elconf": "",
+		"element": "(Uuo)",
+		"elnegativity": "",
+		"group": "8 A",
+		"id": 118,
+		"name": {
+			"en": "Ununoctium",
+			"ru": "Унуноктий"
+		},
+		"period": "7",
+		"subclass": {
+			"en": "Noble gases",
+			"ru": "Инертные газы"
+		},
+		"tempBoiling": "80±30 °C",
+		"val": [
+			"0"
+		]
+	}
+]

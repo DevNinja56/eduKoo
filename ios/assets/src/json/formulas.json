@@ -1,0 +1,262 @@
+[
+  {
+    "frmls": [
+      { "top": ["m" ], "bottom": ["M"] },
+      { "top": ["V" ], "bottom": ["V<sub>m</sub>"] },
+      { "top": ["N" ], "bottom": ["N<sub>A</sub>"] },
+      { "top": ["C", "V<sub>sol</sub>"] },
+      { "top": ["P", "V" ], "bottom": ["R", "T" ] }
+    ],
+    "description": "chemAmount",
+    "defaultMeasure": ["mole"],
+    "symbol": "n",
+    "type": "n_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m" ], "bottom": ["n"] },
+      { "top": ["D<sub>H<sub>2</sub></sub>", "M(H<sub>2</sub>)" ] },
+      { "top": ["D<sub>air</sub>", "M<sub>air</sub>"] }
+    ],
+    "description": "molarMass",
+    "defaultMeasure": ["g", "mole"],
+    "symbol": "M",
+    "type": "M_v"
+  },
+  {
+    "frmls": [
+      { "top": ["M" ] }
+    ],
+    "description": "relMolMass",
+    "defaultMeasure": ["units"],
+    "symbol": "M<sub>r</sub>",
+    "type": "M_r"
+  },
+  {
+    "frmls": [
+      { "top": ["n", "M" ] },
+      { "top": ["m<sub>sol</sub>", "ω" ] },
+      { "top": ["ρ", "V" ] },
+      { "top": ["m<sub>atom</sub>", "N" ] },
+      { "top": ["N", "M"], "bottom": ["N<sub>A</sub>"] },
+      { "top": ["V", "V<sub>m</sub>"], "bottom": ["M"] }
+    ],
+    "description": "subMass",
+    "defaultMeasure": ["g"],
+    "symbol": "m",
+    "type": "m_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m"], "bottom": ["ω"]},
+      { "top": ["ρ<sub>sol</sub>", "V<sub>sol</sub>" ] }
+    ],
+    "description": "solMass",
+    "defaultMeasure": ["g"],
+    "symbol": "m<sub>sol</sub>",
+    "type": "m_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m"], "bottom": ["m<sub>sol</sub>"]}
+    ],
+    "description": "subContentMass",
+    "defaultMeasure": ["fraction"],
+    "symbol": "ω",
+    "type": "w_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m", "V<sub>m</sub>"]},
+      { "top": ["m"], "bottom": ["M", "V<sub>m</sub>"]},
+      { "top": ["m"], "bottom": ["ρ"]},
+      { "top": ["φ", "V<sub>mix</sub>"] },
+      { "top": ["n", "T", "R"], "bottom": ["P"]}
+    ],
+    "description": "subVolume",
+    "defaultMeasure": ["dm3"],
+    "symbol": "V",
+    "type": "V_v"
+  },
+  {
+    "frmls": [
+      { "top": ["V"], "bottom":  ["n"]}
+    ],
+    "description": "subMolarVolume",
+    "defaultMeasure": ["dm3", "mole"],
+    "symbol": "V<sub>m</sub>",
+    "type": "V_m"
+  },
+  {
+    "frmls": [
+      { "top": ["m<sub>sol</sub>"], "bottom": ["ρ<sub>sol</sub>"]},
+      { "top": ["n"], "bottom": ["C"]}
+    ],
+    "description": "solVolume",
+    "defaultMeasure": ["dm3"],
+    "symbol": "V<sub>sol</sub>",
+    "type": "V_rud"
+  },
+  {
+    "frmls": [
+      { "top": ["V"], "bottom": ["φ"]}
+    ],
+    "description": "mixVolume",
+    "defaultMeasure": ["dm3"],
+    "symbol": "V<sub>mix</sub>",
+    "type": "V_smesi"
+  },
+  {
+    "frmls": [
+      { "top": ["m"], "bottom": ["V"]},
+      { "top": ["n", "M"], "bottom": ["V"]}
+    ],
+    "description": "density",
+    "defaultMeasure": ["g", "dm3"],
+    "symbol": "ρ",
+    "type": "ro_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m"], "bottom": ["N"]}
+    ],
+    "description": "subAtomMass",
+    "defaultMeasure": ["aem"],
+    "symbol": "m<sub>atom</sub>",
+    "type": "ma_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m"], "bottom": ["m<sub>atom</sub>"]},
+      { "top": ["n", "N<sub>A</sub>"]}
+    ],
+    "description": "unitsNumber",
+    "defaultMeasure": ["entities"],
+    "symbol": "N",
+    "type": "N_v"
+  },
+  {
+    "frmls": [
+      { "top": ["m<sub>pract</sub>"], "bottom": ["m<sub>theor</sub>"]}
+    ],
+    "description": "yieldContentMass",
+    "defaultMeasure": ["fraction"],
+    "symbol": "ω<sub>yield</sub>",
+    "type": "w_vyh"
+  },
+  {
+    "frmls": [
+      { "top": ["V"], "bottom": ["V<sub>mix</sub>"]}
+    ],
+    "description": "gasContentVolume",
+    "defaultMeasure": ["fraction"],
+    "symbol": "φ",
+    "type": "fi"
+  },
+  {
+    "frmls": [
+      { "top": ["V<sub>pract</sub>"], "bottom": ["V<sub>theor</sub>"]}
+    ],
+    "description": "yieldContentVolume",
+    "defaultMeasure": ["fraction"],
+    "symbol": "φ<sub>yield</sub>",
+    "type": "fi_vyh"
+  },
+  {
+    "frmls": [
+      { "top": ["n", "T", "R"], "bottom": ["V"]}
+    ],
+    "description": "gasPressure",
+    "defaultMeasure": ["kpa"],
+    "symbol": "P",
+    "type": "P"
+  },
+  {
+    "frmls": [
+      { "top": ["P", "V"], "bottom": ["n", "R"]}
+    ],
+    "description": "gasTemp",
+    "defaultMeasure": ["k"],
+    "symbol": "T",
+    "type": "T"
+  },
+  {
+    "frmls": [
+      { "top": ["n"], "bottom": ["V<sub>sol</sub>"]}
+    ],
+    "description": "molarConc",
+    "defaultMeasure": ["mole", "dm3"],
+    "symbol": "C",
+    "type": "C_v"
+  },
+  {
+    "frmls": [
+      { "top": ["M"], "bottom": ["M(H<sub>2</sub>)"]}
+    ],
+    "description": "h2Density",
+    "symbol": "D<sub>H<sub>2</sub></sub>",
+    "type": "D_h"
+  },
+  {
+    "frmls": [
+      { "top": ["M"], "bottom": ["M<sub>air</sub>"]}
+    ],
+    "description": "airDensity",
+    "symbol": "D<sub>air</sub>",
+    "type": "m_a"
+  },
+  {
+    "frmls": [
+      { "top": ["22.4"]}
+    ],
+    "description": "gasMolarVolume",
+    "defaultMeasure": ["l", "mole"],
+    "symbol": "V<sub>m</sub>",
+    "type": "V_m"
+  },
+  {
+    "frmls": [
+      { "top": ["6.02 × 10<sup>23</sup>"]}
+    ],
+    "description": "avogadro",
+    "defaultMeasure": ["entities", "mole"],
+    "symbol": "N<sub>A</sub>",
+    "type": "N_a"
+  },
+  {
+    "frmls": [
+      { "top": ["29"]}
+    ],
+    "description": "airMolarMass",
+    "defaultMeasure": ["g", "mole"],
+    "symbol": "M<sub>air</sub>",
+    "type": "M_vozd"
+  },
+  {
+    "frmls": [
+      { "top": ["8.31"]}
+    ],
+    "description": "gasConstant",
+    "defaultMeasure": ["j", "moleK"],
+    "symbol": "R",
+    "type": "R"
+  },
+  {
+    "frmls": [
+      { "top": ["1000"]}
+    ],
+    "description": "waterDensity",
+    "defaultMeasure": ["g", "dm3"],
+    "symbol": "ρ<sub>water</sub>",
+    "type": "ro_h2o"
+  },
+  {
+    "frmls": [
+      { "top": ["2"]}
+    ],
+    "description": "h2MolarMass",
+    "defaultMeasure": ["g", "mole"],
+    "symbol": "M(H<sub>2</sub>)",
+    "type": "M_h"
+  }
+]

@@ -1,0 +1,8 @@
+app_identifier("org.reactjs.native.example.ChemistryX10") # The bundle identifier of your app
+apple_id("devops@appcrab.net") # Your Apple email address
+
+itc_team_id("118631688") # App Store Connect Team ID
+team_id("APNC3X7GJ9") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
